@@ -5,11 +5,6 @@ The project uses CircleCI and Heroku for continuous integration and continuous d
 You can check it out here: https://phoenixcrud.herokuapp.com/
 
 ## How to run locally
-Before anything, you will need to have Docker installed in your machine, you can get it here: https://www.docker.com/
-
-If you already have it, just jump to the next step :)
-
-
 
 **Clone this repository:**
 
