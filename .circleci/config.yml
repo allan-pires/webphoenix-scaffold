@@ -14,6 +14,7 @@ jobs:
       - run: mix local.hex --force
       - run: mix local.rebar --force
       - run: mix archive.install https://github.com/phoenixframework/archives/raw/master/phoenix_new.ez --force
+      - run: mkdir /home/circleci/repo/priv/repo/migrations/
       - run: mix deps.get
       - run: mix ecto.create
       - run: mix test
