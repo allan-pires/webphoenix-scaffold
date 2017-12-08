@@ -8,11 +8,15 @@ You can check it out here: https://phoenixcrud.herokuapp.com/
 
 Clone this repository: 
 
-`git clone https://github.com/doisLan/webphoenix_crud.git`
+```
+git clone https://github.com/doisLan/webphoenix_crud.git
+```
 
 Start the containers: 
 
-`docker-compose up`
+```
+docker-compose up
+```
 
 And that's it! 
 
