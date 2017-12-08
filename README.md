@@ -6,11 +6,11 @@ You can check it out here: https://phoenixcrud.herokuapp.com/
 
 ## How to run locally
 
-**Clone this repository:**
+Clone this repository: 
 
 `git clone https://github.com/doisLan/webphoenix_crud.git`
 
-**Start the containers:**
+Start the containers: 
 
 `docker-compose up`
 
