@@ -7,7 +7,7 @@ This is a simple web application built using [Elixir](http://elixir-lang.github.
 Clone this repository: 
 
 ```
-$ git clone https://github.com/doisLan/webphoenix_crud.git
+$ git clone https://github.com/doisLan/webphoenix-scaffold.git
 ```
 
 Start the containers: 
